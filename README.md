@@ -1,2 +1,3 @@
-# login-forms
-Modern LogIN and SignUp forms
+# login-forms and css animations
+
+Modern LogIN and SignUp forms and css animations
